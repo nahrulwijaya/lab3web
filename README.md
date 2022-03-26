@@ -14,3 +14,12 @@ tambahkan kode untuk membuat Ordered List seperti berikut.
 
 Hasilnya
 ![p](gambar/2.png)
+
+2. Membuat Daftar Unordered
+
+Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi diurutkan list pada section unordered-list, seperti berikut.
+
+![p](gambar/3.png)
+
+Hasilnya
+![p](gambar/4.png)
