@@ -7,7 +7,7 @@
 Membuka editor teks, Saya menggunakan teks Sublime
 ![p](gambar/22.png)
 
-1. Membuat Daftar Pesanan
+# 1. Membuat Daftar Pesanan
 
 tambahkan kode untuk membuat Ordered List seperti berikut.
 ![p](gambar/1.png.PNG)
@@ -15,7 +15,7 @@ tambahkan kode untuk membuat Ordered List seperti berikut.
 Hasilnya
 ![p](gambar/2.png)
 
-2. Membuat Daftar Unordered
+# 2. Membuat Daftar Unordered
 
 Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi diurutkan list pada section unordered-list, seperti berikut.
 
@@ -24,7 +24,7 @@ Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi diurutkan
 Hasilnya
 ![p](gambar/4.png)
 
-3. Membuat Daftar Deskripsi
+# 3. Membuat Daftar Deskripsi
 
 Kemudian tambahkan kode untuk membuat daftar deskripsi setelah deklarasi unorderd-list.
 
