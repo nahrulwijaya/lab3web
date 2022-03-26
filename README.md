@@ -23,3 +23,12 @@ Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi diurutkan
 
 Hasilnya
 ![p](gambar/4.png)
+
+3. Membuat Daftar Deskripsi
+
+Kemudian tambahkan kode untuk membuat daftar deskripsi setelah deklarasi unorderd-list.
+
+![p](gambar/5.png)
+
+Hasilnya
+![p](gambar/6.png)
