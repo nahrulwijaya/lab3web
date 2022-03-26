@@ -12,7 +12,7 @@ Membuka editor teks, Saya menggunakan teks Sublime
 tambahkan kode untuk membuat Ordered List seperti berikut.
 ![p](gambar/1.png.PNG)
 
-Hasilnya
+# Hasilnya
 ![p](gambar/2.png)
 
 # 2. Membuat Daftar Unordered
@@ -21,7 +21,7 @@ Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi diurutkan
 
 ![p](gambar/3.png)
 
-Hasilnya
+# Hasilnya
 ![p](gambar/4.png)
 
 # 3. Membuat Daftar Deskripsi
@@ -30,7 +30,7 @@ Kemudian tambahkan kode untuk membuat daftar deskripsi setelah deklarasi unorder
 
 ![p](gambar/5.png)
 
-Hasilnya
+# Hasilnya
 
 ![p](gambar/6.png)
 
@@ -40,7 +40,7 @@ Buat file baru dengan nama lab3_tabel.html, kemudian tambahkan kode untuk membua
 
 ![p](gambar/7.png)
 
-Hasilnya
+# Hasilnya
 ![p](gambar/8.png)
 
 # 5. Margin & Padding
@@ -49,7 +49,7 @@ Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding d
 
 ![p](gambar/9.png)
 
-Hasilnya
+# Hasilnya
 ![p](gambar/10.png)
 
 # 6. Menggabungkan Sel Data
@@ -58,7 +58,7 @@ Untuk menggabungkan data sel, gunakan atribut rowspan dan colspan. Atribut rowsp
 
 ![p](gambar/11.png)
 
-Hasilnya
+# Hasilnya
 ![p](gambar/12.png)
 
 # 7. Membuat Bentuk
@@ -67,7 +67,7 @@ Buat file baru dengan nama lab3_form.html, Kemudian tambahkan kode untuk membuat
 
 ![p](gambar/13.png)
 
-Hasilnya
+# Hasilnya
 ![p](gambar/14.png)
 
 # 8. Penambahan style pada Form
@@ -76,5 +76,24 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 
 ![p](gambar/15.png)
 
-Hasilnya
+# Hasilnya
 ![p](gambar/16.png)
+
+
+## Pertanyaan dan Tugas
+
+# 1.Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+## Jawaban
+
+# 1.HTML
+
+![p](gambar/30.png)
+
+# CSS
+
+![p](gambar/31.png.png)
+
+# Keluaran
+
+![p](gambar/32.png)
