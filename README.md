@@ -33,3 +33,13 @@ Kemudian tambahkan kode untuk membuat daftar deskripsi setelah deklarasi unorder
 Hasilnya
 
 ![p](gambar/6.png)
+
+# 4. Membuat Tabel
+
+Buat file baru dengan nama lab3_tabel.html, kemudian tambahkan kode untuk membuat tabel sederhana seperti berikut:
+
+![p](gambar/7.png)
+
+Hasilnya
+![p](gambar/8.png)
+
