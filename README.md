@@ -43,3 +43,38 @@ Buat file baru dengan nama lab3_tabel.html, kemudian tambahkan kode untuk membua
 Hasilnya
 ![p](gambar/8.png)
 
+# 5. Margin & Padding
+
+Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan cellspacing pada tag table.
+
+![p](gambar/9.png)
+
+Hasilnya
+![p](gambar/10.png)
+
+# 6. Menggabungkan Sel Data
+
+Untuk menggabungkan data sel, gunakan atribut rowspan dan colspan. Atribut rowspan untuk menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara horizontal).
+
+![p](gambar/11.png)
+
+Hasilnya
+![p](gambar/12.png)
+
+# 7. Membuat Bentuk
+
+Buat file baru dengan nama lab3_form.html, Kemudian tambahkan kode untuk membuat tabel sederhana seperti berikut:
+
+![p](gambar/13.png)
+
+Hasilnya
+![p](gambar/14.png)
+
+# 8. Penambahan style pada Form
+
+Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
+
+![p](gambar/15.png)
+
+Hasilnya
+![p](gambar/16.png)
