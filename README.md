@@ -1,5 +1,5 @@
 # Nama: Nahrul Wijaya
-# Nim : 31020415
+# Nim : 312010415
 # Kelas: TI.20.A1
 
 ## Langkah-Langkah praktikum 3
